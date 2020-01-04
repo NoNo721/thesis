@@ -1,0 +1,30 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@i {\@ne }{chapter}{0em}{}{\contentspush {\thecontentslabel \ }}{}{\titlerule *[4pt]{.}\contentspage }\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@i {\@ne }{section}{2em}{}{\contentspush {\thecontentslabel \ }}{}{\titlerule *[4pt]{.}\contentspage }\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@i {\@ne }{subsection}{4em}{}{\contentspush {\thecontentslabel \ }}{}{\titlerule *[4pt]{.}\contentspage }\relax 
+\defcounter {refsection}{0}\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1\hspace {.3em}}引\nobreakspace {}言}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}背景介绍}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}人天力失众难轻可如中了部马}{1}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2\hspace {.3em}}测\nobreakspace {}试}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}多文件测试}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{7}{chapter*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{本科就读期间取得的学术成果}{8}{chapter*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致\nobreakspace {}谢}{9}{Item.4}
+\contentsfinish 

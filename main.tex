@@ -1,0 +1,113 @@
+\documentclass[color]{tongjithesis}
+\addbibresource[location=local]{tongjithesis.bib}
+
+\usepackage{subfiles}
+
+\usepackage{lipsum}
+
+\usepackage{upgreek}%add special greek symbols
+%\usepackage{graphicx}%include figure files
+%\usepackage{subfigure} 
+\usepackage{amsmath}%add special math symbols
+\usepackage{amssymb}
+\usepackage{bm}%bold math
+
+\newcommand{\ww}[1]{\textcolor{red}{\bf~[WW:~#1]~}}	% My comments
+\newcommand{\referee}[1]{\textcolor{blue}{\textit{#1~\\}}}	% referee comments
+%
+%  Created by WW on 12/19/19
+%  Copyright © WW. All rights reserved.
+%
+
+\school
+{物理科学与工程学院}
+{School of Physics Science and Engineering}
+
+\major
+{物理学(试验基地班)}
+{Applied Physics}
+
+\thesistitle
+{这是一个长长长长长的标题}
+{这是一个长长长长长的副标题}
+{Long Long Long Long Long Long Title}
+{Long  Long Long Long Long Long Long Subtitle}
+
+\thesisauthor{汪巍}{Wei Wang}
+
+\schoolnumber{1653563}
+
+\keyword
+{吃，喝，拉，撒，睡}
+{Eat, drink, xxx, yyy, zzz}
+
+\advisor{张建卫~教授}{Professor}
+
+\thesisdate{2020}{6}{1}
+
+\begin{document}
+
+\maketitle
+
+\begin{cabstract}
+	手认演带雄！不会所心我一资族方过三习长令人还；健生意看不都一带。像另以际要，留最游用少成、状形不当投办专际士代欢除药国看题不车那然产易河。条计全天，着至是美不自康许知。多能实修弟些她对们看不跟天愿自方以色手到是分有司代被养下天风委时就体间够及慢说己，家大也多没被黑……也间身自关放小节同皮深大回是有……再量上总台把雄到天部种要期把是，多空色，你长望我行没心发。我又中算由其得是一到来环人大？界视车线电，当上处认他经可后么样议定市一知服城不会良土表新候自想不绝变结黑人本太时，维连此主当自下品务过决；名上的。系反怀花不灵，关念儿关。力例小里方两然的难给能加合色另冷我的团是来爸法？的条别然所日怕了影近意，生言有我感际英面，别一他草；社团时任光地？住情半电地里看画朋我我室剧。乐不外好头没然万子农片创，作用么约，她人这说行拉乐一一往，利界优下不，微可战、学解好间：纪一着没印充国要半以时的止次起也条山人利毒会把足。
+\end{cabstract}
+
+\begin{eabstract}
+	\lipsum[3-4]
+\end{eabstract}
+
+% toc
+\toc
+
+% main contents
+\mainmatter
+
+\subfile{chapters/chapter1/chap1}
+
+\subfile{chapters/chapter2/chap2}
+
+\nocite{*}
+
+\clearpage
+{
+	\hyphenpenalty=1000 %断词阈值，值越大越不容易出现断词
+	\tolerance=500 %丑度，10000为最大无溢出盒子
+	\hbadness=100 %如果丑度超过hbadness这一阀值，那么就会发出警告
+	\printbibliography[heading=bibintoc,title=参考文献]
+}
+
+\clearpage
+\addcontentsline{toc}{chapter}{本科就读期间取得的学术成果}
+\chapter*{本科就读期间取得的学术成果}
+\begin{enumerate}
+	\item 1
+	\item 2
+	\item 3
+	\item 4
+\end{enumerate}
+
+\clearpage
+\addcontentsline{toc}{chapter}{致~谢}
+\chapter*{致~谢}
+
+我衷心感谢\textsc{TongjiThesis}对我的论文的帮助，帮助我节约了不少时间。非常感谢！
+
+\begin{enumerate}
+	\item 股女济增型馆发程情少我，初答积老西，去时们不要，小的而自回念因的政根我节本史。
+	\item 以里生星故神始广意金施头、儿于洋小，方根心起热外一轮了以定只有到本治：像士己不无回念年洲，心格打导解美，国一西的己一场？
+	\item 一管牛里向的，一到的这出脑竟送。
+	\item 如感百是候，一心台两件。
+	\item 他看因，度观及那用力，以因会能一国高难面古通般论里妈不同成。提不的国人生，完形车如，都后小了了奖影动果过共步一代念于不，证人代鱼后所下广少于石应家化就加一了，己接只，像长完是接。
+\end{enumerate}
+
+又有一个列表：
+\begin{itemize}
+	\item 笔解会这，致小的人区智下古岸习子几的爱助家重件者然是人成里国路人艺与游及不情质你且孩落夜我的轻每今色音故愿作……
+	\item 感生民作叫资师成？无包部热非……源士不说屋：投得来人天早参再。
+	\item 得急导的在怕大可赛、的地果字何代样黑月，走里消。步事够院新慢积人包年产时念看情光，林了请，他觉期度务升？
+	\item 西民这像新怎不：例后创精各游绝：确地开自条举世平者市选从生她？在们好他住景确间母然制？人新与。
+	\item 山师本更指、越平那量求发和年就王爸能食。
+\end{itemize}
+
+\end{document}
