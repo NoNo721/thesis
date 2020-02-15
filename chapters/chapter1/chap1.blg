@@ -1,9 +1,9 @@
-[0] Config.pm:354> INFO - This is Biber 2.7
-[0] Config.pm:357> INFO - Logfile is 'chap1.blg'
-[47] biber-darwin:303> INFO - === Sat Jan  4, 2020, 12:28:32
-[80] Biber.pm:359> INFO - Reading 'chap1.bcf'
-[240] Biber.pm:835> INFO - Found 2 citekeys in bib section 0
-[262] Biber.pm:3670> INFO - Processing section 0
-[282] Biber.pm:3840> INFO - Looking for bibtex format file 'tongjithesis.bib' for section 0
-[423] Utils.pm:180> ERROR - Cannot find 'tongjithesis.bib'!
-[423] Biber.pm:113> INFO - ERRORS: 1
+[1] Config.pm:354> INFO - This is Biber 2.7
+[1] Config.pm:357> INFO - Logfile is 'chap1.blg'
+[42] biber-darwin:303> INFO - === Sat Feb 15, 2020, 15:50:47
+[65] Biber.pm:359> INFO - Reading 'chap1.bcf'
+[206] Biber.pm:835> INFO - Found 2 citekeys in bib section 0
+[222] Biber.pm:3670> INFO - Processing section 0
+[238] Biber.pm:3840> INFO - Looking for bibtex format file 'tongjithesis.bib' for section 0
+[387] Utils.pm:180> ERROR - Cannot find 'tongjithesis.bib'!
+[387] Biber.pm:113> INFO - ERRORS: 1

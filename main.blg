@@ -1,21 +1,21 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'main.blg'
-[42] biber-darwin:303> INFO - === Sat Jan  4, 2020, 12:36:39
-[68] Biber.pm:359> INFO - Reading 'main.bcf'
-[203] Biber.pm:832> INFO - Using all citekeys in bib section 0
-[216] Biber.pm:3670> INFO - Processing section 0
-[230] Biber.pm:3840> INFO - Looking for bibtex format file 'tongjithesis.bib' for section 0
-[232] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[239] bibtex.pm:1292> INFO - Found BibTeX data source 'tongjithesis.bib'
-[240] Utils.pm:164> WARN - Duplicate entry key: 'jam91' in file 'tongjithesis.bib', skipping ...
-[241] Utils.pm:164> WARN - Duplicate entry key: 'jon91' in file 'tongjithesis.bib', skipping ...
-[241] Utils.pm:164> WARN - Duplicate entry key: 'jon92' in file 'tongjithesis.bib', skipping ...
-[241] Utils.pm:164> WARN - Duplicate entry key: 'jon92b' in file 'tongjithesis.bib', skipping ...
-[283] Utils.pm:164> WARN - month field 'Jun' in entry 'myPRB' is not an integer - this will probably not sort properly.
-[329] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[329] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[329] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
-[329] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[337] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[339] bbl.pm:712> INFO - Output to main.bbl
-[340] Biber.pm:109> INFO - WARNINGS: 5
+[43] biber-darwin:303> INFO - === Sat Feb 15, 2020, 15:44:19
+[79] Biber.pm:359> INFO - Reading 'main.bcf'
+[251] Biber.pm:832> INFO - Using all citekeys in bib section 0
+[270] Biber.pm:3670> INFO - Processing section 0
+[307] Biber.pm:3840> INFO - Looking for bibtex format file 'tongjithesis.bib' for section 0
+[311] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[316] bibtex.pm:1292> INFO - Found BibTeX data source 'tongjithesis.bib'
+[317] Utils.pm:164> WARN - Duplicate entry key: 'jam91' in file 'tongjithesis.bib', skipping ...
+[318] Utils.pm:164> WARN - Duplicate entry key: 'jon91' in file 'tongjithesis.bib', skipping ...
+[320] Utils.pm:164> WARN - Duplicate entry key: 'jon92' in file 'tongjithesis.bib', skipping ...
+[320] Utils.pm:164> WARN - Duplicate entry key: 'jon92b' in file 'tongjithesis.bib', skipping ...
+[376] Utils.pm:164> WARN - month field 'Jun' in entry 'myPRB' is not an integer - this will probably not sort properly.
+[444] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[444] Biber.pm:3499> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[444] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[459] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[461] bbl.pm:712> INFO - Output to main.bbl
+[461] Biber.pm:109> INFO - WARNINGS: 5

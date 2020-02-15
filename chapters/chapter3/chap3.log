@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.22)  4 JAN 2020 13:00
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.22)  15 FEB 2020 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2603,8 +2603,9 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `chap3.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'chap3.bbl' found.
- (./chap3.bbl)
+Package biblatex Info: ... file 'chap3.bbl' not found.
+
+No file chap3.bbl.
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
 Package lastpage Info: Please have a look at the pageslts package at
@@ -2615,7 +2616,6 @@ Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count487
-
 ABD: EveryShipout initializing macros
 1
 \g__fontspec_family_FZHei-B01S_int=\count488
@@ -2725,12 +2725,12 @@ Package logreq Info: Writing requests to 'chap3.run.xml'.
 ### simple group (level 1) entered at line 1061 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 49770 strings out of 493005
- 949110 string characters out of 6134596
+ 49768 strings out of 493005
+ 949090 string characters out of 6134596
  1571043 words of memory out of 5000000
  53010 multiletter control sequences out of 15000+600000
  20678 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,76p,10485b,11781s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on chap3.xdv (1 page, 4764 bytes).
+Output written on chap3.pdf (1 page).
