@@ -6,3 +6,7 @@
 * Graduation project thesis for my undergraduate study at Tongji University.
 
 * Use package **subfiles** for the management of chapters.
+
+## Sigh... 
+
+School requested thesis in **Microsoft Word** version, so all these work are in vain...
